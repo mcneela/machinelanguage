@@ -1616,8 +1616,9 @@ input, select, textarea {
 			}
 
 		.image.featured {
-			display: block;
-			width: 100%;
+			display: float;
+			width: 300px;
+			height: 140px;
 			margin: 0 0 2em 0;
 		}
 
